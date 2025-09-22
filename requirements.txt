@@ -1,5 +1,4 @@
 requests
 openai
 dotenv
-csv
 schedule
